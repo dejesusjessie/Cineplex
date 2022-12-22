@@ -59,3 +59,4 @@ to demonstrate the significant functionalities.
 ### Screenshot of the user dashboard page to show the pending ticket that the customer ‘Test’ booked
 
 <img width="1420" alt="Screen Shot 2022-06-09 at 10 44 00 PM" src="https://user-images.githubusercontent.com/49578771/173777640-4bf11915-17ae-4835-b74a-662b88233a99.png">
+
