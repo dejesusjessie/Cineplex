@@ -1,6 +1,6 @@
-# Movie_Tickets_Reservation_Systems_Project
+# Primary Cineplex
 
-There are three phases of the "Movies Tickets Reservation Systems Project" for the Database Systems Design course project 
+There are three phases of the "Primary Cineplex" for the Database Systems Design course project 
 in Fall 2022 at The University of Washington Tacoma. 
 Phase III works on creating the conceptual model of the database and developing a functional front end of the database application 
 to demonstrate the significant functionalities. 
